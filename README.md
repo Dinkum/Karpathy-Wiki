@@ -2,7 +2,7 @@
 
 > **Note:** 100% inspired by Karpathy → https://x.com/karpathy/status/2039805659525644595 I just wanted to document my scaffold.
 
-An everything wiki. Drop documents in, ask questions, get answers all with Codex as your interface. Works with literally whatever documents you care about!
+An everything wiki. Drop documents in, ask questions, get answers all with Codex as your interface. Works with literally whatever documents you care about! Articles, papers, studies, etc. 
 
 ## Requirements
 

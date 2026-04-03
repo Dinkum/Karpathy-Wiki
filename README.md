@@ -7,7 +7,7 @@ An everything wiki. Drop documents in, ask questions, get answers all with Codex
 ## Requirements
 
 - [OpenAI Codex](https://openai.com/codex)
-- [Obsidian](https://obsidian.md) — for reading the wiki
+- [Obsidian](https://obsidian.md) for reading the wiki
 - This repo
 
 ## How to Use

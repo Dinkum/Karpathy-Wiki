@@ -2,7 +2,7 @@
 
 > **Note:** 100% inspired by Karpathy → https://x.com/karpathy/status/2039805659525644595 I just wanted to document my scaffold.
 
-An everything wiki. Drop documents in, ask questions, get answers all with Codex as your interface. Works with literally whatever documents you care about! Articles, papers, studies, etc. 
+An everything wiki. Drop documents into `raw/`, have Codex compile them into `wiki/`, ask questions, and read everything in Obsidian. Works with literally whatever documents you care about! Articles, papers, studies, etc. 
 
 ## Requirements
 
@@ -13,6 +13,8 @@ An everything wiki. Drop documents in, ask questions, get answers all with Codex
 ## How to Use
 
 Got documents? Drop them in `raw/` and tell Codex you added something.
+
+Codex maintains `wiki/index.md` for navigation and `wiki/log.md` for ingest/query history.
 
 Want to query the wiki? **Ask Codex!**  
 Want a new article? **Ask Codex!**  
